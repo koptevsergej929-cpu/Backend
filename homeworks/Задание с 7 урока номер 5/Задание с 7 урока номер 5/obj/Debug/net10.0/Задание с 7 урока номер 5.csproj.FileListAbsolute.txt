@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\bin\Debug\net10.0\Задание с 7 урока номер 5.exe
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\bin\Debug\net10.0\Задание с 7 урока номер 5.deps.json
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\bin\Debug\net10.0\Задание с 7 урока номер 5.runtimeconfig.json
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\bin\Debug\net10.0\Задание с 7 урока номер 5.dll
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\bin\Debug\net10.0\Задание с 7 урока номер 5.pdb
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\Задание с 7 урока номер 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\Задание с 7 урока номер 5.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\Задание с 7 урока номер 5.AssemblyInfo.cs
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\Задание с 7 урока номер 5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\Задание с 7 урока номер 5.dll
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\refint\Задание с 7 урока номер 5.dll
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\Задание с 7 урока номер 5.pdb
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\Задание с 7 урока номер 5.genruntimeconfig.cache
+C:\Users\admin\Desktop\backend\course-1\homeworks\Задание с 7 урока номер 5\Задание с 7 урока номер 5\obj\Debug\net10.0\ref\Задание с 7 урока номер 5.dll
