@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ур 8 прктика")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6340aa8cf98595ad79eaf860ee1d9aa3cdbf1f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58844a56f205cbd4c86b198e1db645c25c09a7b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ур 8 прктика")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ур 8 прктика")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

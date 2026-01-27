@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ДЗ N4/1.0.0": {
+        "runtime": {
+          "ДЗ N4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДЗ N4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

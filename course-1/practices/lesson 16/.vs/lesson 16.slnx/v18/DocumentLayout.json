@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\txtexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\txtexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\shap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\shap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\pdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\pdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\documentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\documentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567F6D-1168-48AC-9C17-2DF1F17DC416}|lesson 16\\lesson 16.csproj|solutionrelative:lesson 16\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Dog.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Dog.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Dog.cs",
+              "RelativeToolTip": "lesson 16\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:33:16.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfExporter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\PdfExporter.cs",
+              "RelativeDocumentMoniker": "lesson 16\\PdfExporter.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\PdfExporter.cs",
+              "RelativeToolTip": "lesson 16\\PdfExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:03:39.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shap.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Shap.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Shap.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Shap.cs",
+              "RelativeToolTip": "lesson 16\\Shap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:14:31.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Program.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Program.cs",
+              "RelativeToolTip": "lesson 16\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:12:58.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Transport.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Transport.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Transport.cs",
+              "RelativeToolTip": "lesson 16\\Transport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:40:52.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TxtExporter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\TxtExporter.cs",
+              "RelativeDocumentMoniker": "lesson 16\\TxtExporter.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\TxtExporter.cs",
+              "RelativeToolTip": "lesson 16\\TxtExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:01:06.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentExporter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\DocumentExporter.cs",
+              "RelativeDocumentMoniker": "lesson 16\\DocumentExporter.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\DocumentExporter.cs",
+              "RelativeToolTip": "lesson 16\\DocumentExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:57:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Circle.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Circle.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Circle.cs",
+              "RelativeToolTip": "lesson 16\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:18:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Cat.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Cat.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Cat.cs",
+              "RelativeToolTip": "lesson 16\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:35:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Car.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Car.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Car.cs",
+              "RelativeToolTip": "lesson 16\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:46:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Boat.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Boat.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Boat.cs",
+              "RelativeToolTip": "lesson 16\\Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:47:33.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Animal.cs",
+              "RelativeDocumentMoniker": "lesson 16\\Animal.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 16\\lesson 16\\Animal.cs",
+              "RelativeToolTip": "lesson 16\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:26:30.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
