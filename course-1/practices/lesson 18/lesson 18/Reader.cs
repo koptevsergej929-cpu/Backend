@@ -19,7 +19,7 @@ namespace lesson_18
 
         public void BorrowBook(Book book)
         {
-            _brrowedBook.Add(book);
+            _borrowedBook.Add(book);
             Console.WriteLine($"{Name} взял книгу \"{book.Title}\"");
         }
 

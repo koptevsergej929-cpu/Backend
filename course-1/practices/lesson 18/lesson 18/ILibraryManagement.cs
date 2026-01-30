@@ -11,5 +11,6 @@ namespace lesson_18
         void RemoveBook(Book book);
 
         List<Book> SearhByAuthor(string author);
+        void ListBooks();
     }
 }

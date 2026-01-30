@@ -6,31 +6,31 @@ namespace lesson_18
 {
     public class Library : ILibraryManagement
     {
-        private List<Book> _book = new List<Book>();
+        private List<Book> _books = new List<Book>();
 
         public void AddBook(Book book)
         {
-            _book.Add(book);
-            Console.WriteLine($"Книга \"{book.Title}\" добавлена в библеотеку.");
+            _books.Add(book);
+            Console.WriteLine($"Книга \"{book.Title}\" добавлена в библиотеку.");
         }
 
         public bool RemoveBook(Book book)
         {
-            bool removed = _book.Remove(book);
-            if (removed == true)
-                Console.WriteLine($"Книга \"{book.Title}\" добавлена в библеотеку.");
+            bool removed = _books.Remove(book);
+            if (removed)
+                Console.WriteLine($"Книга \"{book.Title}\" удалена из библиотеки.");
+            return removed;
         }
 
         public List<Book> SearchByAuthor(string author)
         {
-            var book = _book.Where(book => book.Author == author).ToList();
-            return book;
+            return _books.Where(b => b.Author == author).ToList();
         }
 
         public void ListBooks()
         {
-            Console.WriteLine("Список книг в библеотеке");
-            foreach (var book in _book)
+            Console.WriteLine("Список книг в библиотеке:");
+            foreach (var book in _books)
             {
                 book.ShowInfo();
             }
@@ -38,11 +38,21 @@ namespace lesson_18
 
         public void IssueBook(Book book, Reader reader)
         {
-            if (_book.Contains(book))
+            if (_books.Contains(book))
             {
                 reader.BorrowBook(book);
-                _book.Remove(book);
+                _books.Remove(book);
             }
+            else
+            {
+                Console.WriteLine($"Книга \"{book.Title}\" сейчас недоступна.");
+            }
+        }
+
+        public void ReturnBook(Book book)
+        {
+            _books.Add(book);
+            Console.WriteLine($"Книга \"{book.Title}\" возвращена в библиотеку.");
         }
     }
 }
