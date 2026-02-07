@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|solutionrelative:nowember 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|solutionrelative:nowember 8\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|solutionrelative:nowember 8\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|solutionrelative:nowember 8\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\steak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|solutionrelative:nowember 8\\steak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|solutionrelative:nowember 8\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\cookingprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37990F1C-11DE-4B9C-9877-1D574EE71E68}|nowember 8\\nowember 8.csproj|solutionrelative:nowember 8\\cookingprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Steak.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Steak.cs",
+              "RelativeDocumentMoniker": "nowember 8\\Steak.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Steak.cs",
+              "RelativeToolTip": "nowember 8\\Steak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:38:20.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Soup.cs",
+              "RelativeDocumentMoniker": "nowember 8\\Soup.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Soup.cs",
+              "RelativeToolTip": "nowember 8\\Soup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:36:25.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CookingProcess.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\CookingProcess.cs",
+              "RelativeDocumentMoniker": "nowember 8\\CookingProcess.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\CookingProcess.cs",
+              "RelativeToolTip": "nowember 8\\CookingProcess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:31:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Developer.cs",
+              "RelativeDocumentMoniker": "nowember 8\\Developer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Developer.cs",
+              "RelativeToolTip": "nowember 8\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:25:06.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Manager.cs",
+              "RelativeDocumentMoniker": "nowember 8\\Manager.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Manager.cs",
+              "RelativeToolTip": "nowember 8\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:20:54.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Worker.cs",
+              "RelativeDocumentMoniker": "nowember 8\\Worker.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Worker.cs",
+              "RelativeToolTip": "nowember 8\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:14:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Program.cs",
+              "RelativeDocumentMoniker": "nowember 8\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\nowember 8\\nowember 8\\Program.cs",
+              "RelativeToolTip": "nowember 8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:57:25.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
