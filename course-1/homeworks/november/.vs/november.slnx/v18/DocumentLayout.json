@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\textbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\textbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6CD95-27BB-44AC-AB25-400FD1909E24}|november\\november.csproj|solutionrelative:november\\publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publication.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Publication.cs",
+              "RelativeDocumentMoniker": "november\\Publication.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Publication.cs",
+              "RelativeToolTip": "november\\Publication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:57:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Library.cs",
+              "RelativeDocumentMoniker": "november\\Library.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Library.cs",
+              "RelativeToolTip": "november\\Library.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:55:49.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibraryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\ILibraryManagement.cs",
+              "RelativeDocumentMoniker": "november\\ILibraryManagement.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\ILibraryManagement.cs",
+              "RelativeToolTip": "november\\ILibraryManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:55:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Reader.cs",
+              "RelativeDocumentMoniker": "november\\Reader.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Reader.cs",
+              "RelativeToolTip": "november\\Reader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:54:00.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Textbook.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Textbook.cs",
+              "RelativeDocumentMoniker": "november\\Textbook.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Textbook.cs",
+              "RelativeToolTip": "november\\Textbook.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:52:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Book.cs",
+              "RelativeDocumentMoniker": "november\\Book.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Book.cs",
+              "RelativeToolTip": "november\\Book.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:50:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Program.cs",
+              "RelativeDocumentMoniker": "november\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\Program.cs",
+              "RelativeToolTip": "november\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:49:42.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublishingHouse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\PublishingHouse.cs",
+              "RelativeDocumentMoniker": "november\\PublishingHouse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\november\\november\\PublishingHouse.cs",
+              "RelativeToolTip": "november\\PublishingHouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:50:11.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
