@@ -1,0 +1,19 @@
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\bin\Debug\net10.0\lesson 23.exe
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\bin\Debug\net10.0\lesson 23.deps.json
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\bin\Debug\net10.0\lesson 23.runtimeconfig.json
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\bin\Debug\net10.0\lesson 23.dll
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\bin\Debug\net10.0\lesson 23.pdb
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\bin\Debug\net10.0\Telegram.Bot.dll
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.AssemblyInfo.cs
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.sourcelink.json
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.csproj.Up2Date
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.dll
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\refint\lesson 23.dll
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.pdb
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\lesson 23.genruntimeconfig.cache
+C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\lesson 23\lesson 23\obj\Debug\net10.0\ref\lesson 23.dll
