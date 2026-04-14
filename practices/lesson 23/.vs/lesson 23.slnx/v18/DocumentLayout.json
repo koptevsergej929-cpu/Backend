@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\commands\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\commands\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\commands\\icommads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\commands\\icommads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\commands\\weekcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\commands\\weekcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\json\\jsonschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\json\\jsonschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\models\\dayschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\models\\dayschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\models\\groupschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\models\\groupschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\models\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\models\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\models\\schedulefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87E1A4-30A1-AA09-3586-8D32FA3E2ABE}|lesson 23\\lesson 23.csproj|solutionrelative:lesson 23\\models\\schedulefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeekCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\WeekCommand.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Commands\\WeekCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\WeekCommand.cs",
+              "RelativeToolTip": "lesson 23\\Commands\\WeekCommand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:23:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\StartCommand.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Commands\\StartCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\StartCommand.cs",
+              "RelativeToolTip": "lesson 23\\Commands\\StartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:38:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommads.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\ICommads.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Commands\\ICommads.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\ICommads.cs",
+              "RelativeToolTip": "lesson 23\\Commands\\ICommads.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:15:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Commands\\HelpCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\HelpCommand.cs",
+              "RelativeToolTip": "lesson 23\\Commands\\HelpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:41:55.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\CommandDispatcher.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Commands\\CommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Commands\\CommandDispatcher.cs",
+              "RelativeToolTip": "lesson 23\\Commands\\CommandDispatcher.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:20:45.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Program.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Program.cs",
+              "RelativeToolTip": "lesson 23\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T15:47:23.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Json\\JsonScheduleRepository.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Json\\JsonScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Json\\JsonScheduleRepository.cs",
+              "RelativeToolTip": "lesson 23\\Json\\JsonScheduleRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:17:03.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DaySchedule.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\DaySchedule.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Models\\DaySchedule.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\DaySchedule.cs",
+              "RelativeToolTip": "lesson 23\\Models\\DaySchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:12:40.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\GroupSchedule.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Models\\GroupSchedule.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\GroupSchedule.cs",
+              "RelativeToolTip": "lesson 23\\Models\\GroupSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:13:31.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\IScheduleRepository.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Models\\IScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\IScheduleRepository.cs",
+              "RelativeToolTip": "lesson 23\\Models\\IScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:15:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\Lesson.cs",
+              "RelativeToolTip": "lesson 23\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:10:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScheduleFile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\ScheduleFile.cs",
+              "RelativeDocumentMoniker": "lesson 23\\Models\\ScheduleFile.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 23\\lesson 23\\Models\\ScheduleFile.cs",
+              "RelativeToolTip": "lesson 23\\Models\\ScheduleFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:14:29.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

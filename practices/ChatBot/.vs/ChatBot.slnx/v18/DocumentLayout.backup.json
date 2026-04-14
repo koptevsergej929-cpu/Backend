@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\summarizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\summarizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\statscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\statscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\repositories\\implementations\\chatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\implementations\\chatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\repositories\\interfaces\\ichatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\interfaces\\ichatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\repositories\\models\\openapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\models\\openapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\ibotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\ibotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\settings\\telegramsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\settings\\telegramsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\settings\\chatapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\settings\\chatapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\repositories\\models\\openapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\models\\openapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\repositories\\interfaces\\ichatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\interfaces\\ichatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\repositories\\implementations\\httpchatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\implementations\\httpchatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\repositories\\implementations\\chatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\implementations\\chatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\dto\\telegramupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\telegramupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\dto\\telegrammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\telegrammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\dto\\telegramchatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\telegramchatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\dto\\chatstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\chatstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\controllers\\chattestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\controllers\\chattestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\undocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\undocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\telegramupdateprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\telegramupdateprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\chatbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\chatbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\chatbot\\chatbot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7C0ADE5-570A-103F-04F8-2F7F08F03279}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\HelpCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\HelpCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\HelpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:27:03.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwCMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:29:50.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\StatsCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\StatsCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\StatsCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\StatsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:13:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SummarizeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\SummarizeCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\SummarizeCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\SummarizeCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\SummarizeCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:09:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClearCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\ClearCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\ClearCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\ClearCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\ClearCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:29:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChatModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:28:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpenApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiResponse.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Models\\OpenApiResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiResponse.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Models\\OpenApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:33:20.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Program.cs",
+              "RelativeToolTip": "ChatBot\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:21:29.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\IBotCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\IBotCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\IBotCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\IBotCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:22:03.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TelegramSettings.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Settings\\TelegramSettings.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Settings\\TelegramSettings.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Settings\\TelegramSettings.cs",
+              "RelativeToolTip": "ChatBot\\Settings\\TelegramSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:01:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Settings\\ChatApiSettings.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Settings\\ChatApiSettings.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Settings\\ChatApiSettings.cs",
+              "RelativeToolTip": "ChatBot\\Settings\\ChatApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:46:07.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OpenApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:40:59.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IChatApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:25:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HttpChatApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:47:13.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatApiClient.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Implementations\\ChatApiClient.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatApiClient.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Implementations\\ChatApiClient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:25:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TelegramUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\TelegramUpdate.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Dto\\TelegramUpdate.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\TelegramUpdate.cs",
+              "RelativeToolTip": "ChatBot\\Dto\\TelegramUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:22:28.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TelegramMessage.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\TelegramMessage.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Dto\\TelegramMessage.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\TelegramMessage.cs",
+              "RelativeToolTip": "ChatBot\\Dto\\TelegramMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:19:53.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TelegramChatBot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\TelegramChatBot.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Dto\\TelegramChatBot.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\TelegramChatBot.cs",
+              "RelativeToolTip": "ChatBot\\Dto\\TelegramChatBot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:33:53.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChatStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\ChatStatistics.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Dto\\ChatStatistics.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Dto\\ChatStatistics.cs",
+              "RelativeToolTip": "ChatBot\\Dto\\ChatStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:18:59.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Controllers\\UpdateController.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Controllers\\UpdateController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Controllers\\UpdateController.cs",
+              "RelativeToolTip": "ChatBot\\Controllers\\UpdateController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:29:16.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatTestController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Controllers\\ChatTestController.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Controllers\\ChatTestController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Controllers\\ChatTestController.cs",
+              "RelativeToolTip": "ChatBot\\Controllers\\ChatTestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:50:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UndoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\UndoCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\UndoCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\UndoCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\UndoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:07:33.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TelegramUpdateProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:29:17.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\StartCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\StartCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Commands\\StartCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\StartCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:23:22.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatBot.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\ChatBot.csproj",
+              "RelativeDocumentMoniker": "ChatBot\\ChatBot.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\ChatBot.csproj",
+              "RelativeToolTip": "ChatBot\\ChatBot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-10T15:56:51.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatBot\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\appsettings.json",
+              "RelativeToolTip": "ChatBot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T16:05:31.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatBot\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\ChatBot\\ChatBot\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatBot\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T16:18:53.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

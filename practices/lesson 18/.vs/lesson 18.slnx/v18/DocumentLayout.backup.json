@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\textbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\textbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\fictionbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\fictionbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D284CFE-F9FD-493C-BD2C-2E5F66325F98}|lesson 18\\lesson 18.csproj|solutionrelative:lesson 18\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILibraryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\ILibraryManagement.cs",
+              "RelativeDocumentMoniker": "lesson 18\\ILibraryManagement.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\ILibraryManagement.cs",
+              "RelativeToolTip": "lesson 18\\ILibraryManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:34:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Library.cs",
+              "RelativeDocumentMoniker": "lesson 18\\Library.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Library.cs",
+              "RelativeToolTip": "lesson 18\\Library.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:33:14.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Program.cs",
+              "RelativeDocumentMoniker": "lesson 18\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Program.cs",
+              "RelativeToolTip": "lesson 18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:01:20.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublishingHouse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\PublishingHouse.cs",
+              "RelativeDocumentMoniker": "lesson 18\\PublishingHouse.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\PublishingHouse.cs",
+              "RelativeToolTip": "lesson 18\\PublishingHouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:05:50.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Reader.cs",
+              "RelativeDocumentMoniker": "lesson 18\\Reader.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Reader.cs",
+              "RelativeToolTip": "lesson 18\\Reader.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:26:16.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Textbook.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Textbook.cs",
+              "RelativeDocumentMoniker": "lesson 18\\Textbook.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Textbook.cs",
+              "RelativeToolTip": "lesson 18\\Textbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:17:47.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FictionBook.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\FictionBook.cs",
+              "RelativeDocumentMoniker": "lesson 18\\FictionBook.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\FictionBook.cs",
+              "RelativeToolTip": "lesson 18\\FictionBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:23:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Book.cs",
+              "RelativeDocumentMoniker": "lesson 18\\Book.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\practices\\lesson 18\\lesson 18\\Book.cs",
+              "RelativeToolTip": "lesson 18\\Book.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:08:10.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

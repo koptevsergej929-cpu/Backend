@@ -1,0 +1,41 @@
+{
+  "Groups": [
+    {
+      "Group": "KB 11",
+      "Days": [
+        {
+          "Day": "Monday",
+          "Lessons": []
+        },
+        {
+          "Day": "Tuesday",
+          "Lessons": [
+            {
+              "Time": "19:00",
+              "Subject": "BACKEND",
+              "Teacher": ""
+            }
+          ]
+        },
+        {
+          "Day": "Wednesday",
+          "Lessons": []
+        },
+        {
+          "Day": "Thursday",
+          "Lessons": []
+        },
+        {
+          "Day": "Friday",
+          "Lessons": [
+            {
+              "Time": "19:00",
+              "Subject": "BACKEND",
+              "Teacher": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

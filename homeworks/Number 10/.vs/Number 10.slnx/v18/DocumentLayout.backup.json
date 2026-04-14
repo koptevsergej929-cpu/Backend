@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\Number 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF017D73-30CA-456F-9952-1B9E94B70D7D}|Number 10\\Number 10.csproj|c:\\users\\admin\\desktop\\pazzle-portfolio\\course-1\\homeworks\\number 10\\number 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF017D73-30CA-456F-9952-1B9E94B70D7D}|Number 10\\Number 10.csproj|solutionrelative:number 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\Number 10\\Number 10\\Program.cs",
+              "RelativeDocumentMoniker": "Number 10\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\Number 10\\Number 10\\Program.cs",
+              "RelativeToolTip": "Number 10\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:40:16.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

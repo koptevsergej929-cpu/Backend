@@ -1,0 +1,141 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ChatBot",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Update": {
+      "post": {
+        "tags": [
+          "Update"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Update/Test": {
+      "post": {
+        "tags": [
+          "Update"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TelegramChatBot": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TelegramMessage": {
+        "required": [
+          "date",
+          "messageId",
+          "text"
+        ],
+        "type": "object",
+        "properties": {
+          "messageId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "chat": {
+            "$ref": "#/components/schemas/TelegramChatBot"
+          },
+          "text": {
+            "maxLength": 200,
+            "minLength": 2,
+            "type": "string"
+          },
+          "date": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TelegramUpdate": {
+        "required": [
+          "updateId"
+        ],
+        "type": "object",
+        "properties": {
+          "updateId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "message": {
+            "$ref": "#/components/schemas/TelegramMessage"
+          },
+          "editedMessage": {
+            "$ref": "#/components/schemas/TelegramMessage"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
