@@ -1,0 +1,131 @@
+2026-04-17 19:49:04.705 +03:00 [INF] Now listening on: http://localhost:5000
+2026-04-17 19:49:05.383 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 19:49:05.387 +03:00 [INF] Hosting environment: Development
+2026-04-17 19:49:05.403 +03:00 [INF] Content root path: C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot
+2026-04-17 19:49:06.170 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-04-17 19:49:06.955 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 837.4554ms
+2026-04-17 19:49:07.058 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-17 19:49:07.110 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - null null
+2026-04-17 19:49:07.138 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 81.1108ms
+2026-04-17 19:49:07.265 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - 200 null text/javascript; charset=UTF-8 155.0671ms
+2026-04-17 19:49:07.304 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-04-17 19:49:07.406 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 102.6792ms
+2026-04-17 19:49:20.342 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Update - application/json-patch+json 253
+2026-04-17 19:49:20.595 +03:00 [WRN] Failed to determine the https port for redirect.
+2026-04-17 19:49:20.623 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:49:20.793 +03:00 [INF] Route matched with {action = "Post", controller = "Update"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(ChatBot.Dto.TelegramUpdate) on controller ChatBot.Controllers.UpdateController (ChatBot).
+2026-04-17 19:49:21.188 +03:00 [INF] Получено сообщение от чата 0: привет
+2026-04-17 19:49:21.189 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-04-17 19:49:21.192 +03:00 [INF] Сохранение сообщения от чата 0: user
+2026-04-17 19:49:21.195 +03:00 [INF] Загрузка истории для чата 0
+2026-04-17 19:49:21.198 +03:00 [INF] Отправка запроса в Chat API
+2026-04-17 19:49:21.202 +03:00 [INF] Executed action ChatBot.Controllers.UpdateController.Post (ChatBot) in 303.9304ms
+2026-04-17 19:49:21.211 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:49:21.215 +03:00 [INF] Отправка запроса к модели nvidia/nemotron-3-super-120b-a12b:free
+2026-04-17 19:49:21.216 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Update - 200 0 null 873.8824ms
+2026-04-17 19:49:21.227 +03:00 [INF] Start processing HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-17 19:49:21.234 +03:00 [INF] Sending HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-17 19:49:22.073 +03:00 [INF] Received HTTP response headers after 829.1079ms - 401
+2026-04-17 19:49:22.176 +03:00 [INF] End processing HTTP request after 954.6045ms - 401
+2026-04-17 19:49:22.312 +03:00 [ERR] Ошибка при вызове Chat API
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ChatBot.Repositories.Implementations.HttpChatApiClient.SendMessageAsync(String userMessage, IEnumerable`1 history) in C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\Repositories\Implementations\HttpChatApiClient.cs:line 37
+   at ChatBot.Commands.TelegramUpdateProcessor.HandleAsync(TelegramUpdate update) in C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\Commands\TelegramUpdateProcessor.cs:line 67
+2026-04-17 19:50:54.967 +03:00 [INF] Now listening on: http://localhost:5000
+2026-04-17 19:50:55.104 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 19:50:55.106 +03:00 [INF] Hosting environment: Development
+2026-04-17 19:50:55.108 +03:00 [INF] Content root path: C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot
+2026-04-17 19:50:55.814 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-04-17 19:50:57.261 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - null null
+2026-04-17 19:50:57.261 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-17 19:50:57.925 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 2135.1269ms
+2026-04-17 19:50:58.092 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 842.9592ms
+2026-04-17 19:50:58.092 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - 200 null text/javascript; charset=UTF-8 837.2375ms
+2026-04-17 19:50:58.111 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-04-17 19:50:58.142 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 30.9392ms
+2026-04-17 19:51:16.755 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Update - application/json-patch+json 246
+2026-04-17 19:51:16.783 +03:00 [WRN] Failed to determine the https port for redirect.
+2026-04-17 19:51:16.794 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:51:16.855 +03:00 [INF] Route matched with {action = "Post", controller = "Update"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(ChatBot.Dto.TelegramUpdate) on controller ChatBot.Controllers.UpdateController (ChatBot).
+2026-04-17 19:51:17.156 +03:00 [INF] Получено сообщение от чата 1: /help
+2026-04-17 19:51:17.157 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-04-17 19:51:17.159 +03:00 [INF] Выполняется команда /help
+2026-04-17 19:51:17.163 +03:00 [INF] Команда /help выполнена для чата 1
+2026-04-17 19:51:17.167 +03:00 [INF] Executed action ChatBot.Controllers.UpdateController.Post (ChatBot) in 295.937ms
+2026-04-17 19:51:17.169 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:51:17.171 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Update - 200 0 null 416.815ms
+2026-04-17 19:53:26.174 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Update - application/json-patch+json 253
+2026-04-17 19:53:26.194 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:53:26.197 +03:00 [INF] Route matched with {action = "Post", controller = "Update"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(ChatBot.Dto.TelegramUpdate) on controller ChatBot.Controllers.UpdateController (ChatBot).
+2026-04-17 19:53:26.202 +03:00 [INF] Получено сообщение от чата 1: привет
+2026-04-17 19:53:26.204 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-04-17 19:53:26.206 +03:00 [INF] Executed action ChatBot.Controllers.UpdateController.Post (ChatBot) in 6.7469ms
+2026-04-17 19:53:26.206 +03:00 [INF] Сохранение сообщения от чата 1: user
+2026-04-17 19:53:26.210 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:53:26.211 +03:00 [INF] Загрузка истории для чата 1
+2026-04-17 19:53:26.219 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Update - 200 0 null 44.3223ms
+2026-04-17 19:53:26.222 +03:00 [INF] Отправка запроса в Chat API
+2026-04-17 19:53:26.236 +03:00 [INF] Отправка запроса к модели nvidia/nemotron-3-super-120b-a12b:free
+2026-04-17 19:53:26.251 +03:00 [INF] Start processing HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-17 19:53:26.260 +03:00 [INF] Sending HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-17 19:53:26.901 +03:00 [INF] Received HTTP response headers after 634.5708ms - 401
+2026-04-17 19:53:26.908 +03:00 [INF] End processing HTTP request after 663.2155ms - 401
+2026-04-17 19:53:26.984 +03:00 [ERR] Ошибка при вызове Chat API
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ChatBot.Repositories.Implementations.HttpChatApiClient.SendMessageAsync(String userMessage, IEnumerable`1 history) in C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\Repositories\Implementations\HttpChatApiClient.cs:line 37
+   at ChatBot.Commands.TelegramUpdateProcessor.HandleAsync(TelegramUpdate update) in C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\Commands\TelegramUpdateProcessor.cs:line 67
+2026-04-17 19:55:21.353 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Update - application/json-patch+json 247
+2026-04-17 19:55:21.368 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:55:21.372 +03:00 [INF] Route matched with {action = "Post", controller = "Update"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(ChatBot.Dto.TelegramUpdate) on controller ChatBot.Controllers.UpdateController (ChatBot).
+2026-04-17 19:55:21.382 +03:00 [INF] Получено сообщение от чата 1: /stats
+2026-04-17 19:55:21.382 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-04-17 19:55:21.388 +03:00 [WRN] Неизвестная команда: /stats
+2026-04-17 19:55:21.388 +03:00 [INF] Executed action ChatBot.Controllers.UpdateController.Post (ChatBot) in 6.7154ms
+2026-04-17 19:55:21.402 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:55:21.405 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Update - 200 0 null 54.0309ms
+2026-04-17 19:57:02.012 +03:00 [INF] Now listening on: http://localhost:5000
+2026-04-17 19:57:02.600 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-04-17 19:57:02.619 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 19:57:02.628 +03:00 [INF] Hosting environment: Development
+2026-04-17 19:57:02.647 +03:00 [INF] Content root path: C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot
+2026-04-17 19:57:03.396 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - null null
+2026-04-17 19:57:03.415 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 831.3123ms
+2026-04-17 19:57:03.457 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-17 19:57:03.470 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 13.0325ms
+2026-04-17 19:57:03.533 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - 200 null text/javascript; charset=UTF-8 137.6996ms
+2026-04-17 19:57:03.580 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-04-17 19:57:03.605 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 24.9904ms
+2026-04-17 19:57:17.378 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Update - application/json-patch+json 253
+2026-04-17 19:57:17.400 +03:00 [WRN] Failed to determine the https port for redirect.
+2026-04-17 19:57:17.411 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:57:17.476 +03:00 [INF] Route matched with {action = "Post", controller = "Update"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(ChatBot.Dto.TelegramUpdate) on controller ChatBot.Controllers.UpdateController (ChatBot).
+2026-04-17 19:57:17.765 +03:00 [INF] Получено сообщение от чата 1: привет
+2026-04-17 19:57:17.766 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-04-17 19:57:17.777 +03:00 [INF] Сохранение сообщения от чата 1: user
+2026-04-17 19:57:17.782 +03:00 [INF] Загрузка истории для чата 1
+2026-04-17 19:57:17.784 +03:00 [INF] Отправка запроса в Chat API
+2026-04-17 19:57:17.788 +03:00 [INF] Executed action ChatBot.Controllers.UpdateController.Post (ChatBot) in 292.316ms
+2026-04-17 19:57:17.797 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:57:17.799 +03:00 [INF] Отправка запроса к модели nvidia/nemotron-3-super-120b-a12b:free
+2026-04-17 19:57:17.801 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Update - 200 0 null 424.1888ms
+2026-04-17 19:57:17.814 +03:00 [INF] Start processing HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-17 19:57:17.825 +03:00 [INF] Sending HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-17 19:57:18.530 +03:00 [INF] Received HTTP response headers after 701.7511ms - 401
+2026-04-17 19:57:18.534 +03:00 [INF] End processing HTTP request after 727.1842ms - 401
+2026-04-17 19:57:18.598 +03:00 [ERR] Ошибка при вызове Chat API
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 401 (Unauthorized).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ChatBot.Repositories.Implementations.HttpChatApiClient.SendMessageAsync(String userMessage, IEnumerable`1 history) in C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\Repositories\Implementations\HttpChatApiClient.cs:line 37
+   at ChatBot.Commands.TelegramUpdateProcessor.HandleAsync(TelegramUpdate update) in C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\Commands\TelegramUpdateProcessor.cs:line 67
+2026-04-17 19:57:30.256 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/Update - application/json-patch+json 247
+2026-04-17 19:57:30.262 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:57:30.265 +03:00 [INF] Route matched with {action = "Post", controller = "Update"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(ChatBot.Dto.TelegramUpdate) on controller ChatBot.Controllers.UpdateController (ChatBot).
+2026-04-17 19:57:30.270 +03:00 [INF] Получено сообщение от чата 1: /stats
+2026-04-17 19:57:30.273 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-04-17 19:57:30.276 +03:00 [INF] Executed action ChatBot.Controllers.UpdateController.Post (ChatBot) in 8.0923ms
+2026-04-17 19:57:30.276 +03:00 [INF] Выполняется команда /stats
+2026-04-17 19:57:30.281 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.UpdateController.Post (ChatBot)'
+2026-04-17 19:57:30.283 +03:00 [INF] Кол-во сообщений: 0, Кол-во токенов: 2
+2026-04-17 19:57:30.290 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/Update - 200 0 null 34.5666ms
