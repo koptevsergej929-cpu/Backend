@@ -18,7 +18,6 @@ C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\D
 C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\Debug\net8.0\ChatBot.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\Debug\net8.0\ChatBot.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\Debug\net8.0\ChatBot.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\Debug\net8.0\ChatBot.sourcelink.json
 C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\admin\Desktop\pazzle-portfolio\course-1\practices\ChatBot\ChatBot\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
