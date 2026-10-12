@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.csproj.CoreCompileInputs.cache

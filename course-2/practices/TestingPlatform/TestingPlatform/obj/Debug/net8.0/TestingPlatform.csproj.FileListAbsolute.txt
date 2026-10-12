@@ -121,7 +121,6 @@ C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\Testi
 C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingPlatform.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingPlatform.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingPlatform.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingPlatform.sourcelink.json
 C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\admin\Desktop\pazzle-portfolio\course-2\practices\TestingPlatform\TestingPlatform\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
