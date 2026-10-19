@@ -4,7 +4,7 @@ using TestingPlatform.Models;
 
 namespace TestingPlatform.Infrastructure.Data
 {
-    public class AppDdContext : DbContext
+    public class AppDbContext : DbContext
     {
         public DbSet<Student> Students => Set<Student>();
         public DbSet<User> Users => Set<User>();
@@ -12,7 +12,7 @@ namespace TestingPlatform.Infrastructure.Data
         public DbSet<Models.Group> Groups => Set<Models.Group>();
         public DbSet<Direction> Directions => Set<Direction>();
         public DbSet<Course> Courses => Set<Course>();
-        public AppDdContext(DbContextOptions<AppDdContext> options) : base(options)
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
 
         }

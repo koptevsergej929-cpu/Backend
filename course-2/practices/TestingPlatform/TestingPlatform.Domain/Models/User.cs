@@ -1,12 +1,14 @@
-﻿namespace TestingPlatform.Models
+﻿
+namespace TestingPlatform.Models
 {
+    public enum UserRole
+    {
+        Manager = 1,
+        Student = 2,
+    }
     public class User
     {
-        public enum UserRole
-        {
-            Manager = 1,
-            Student = 2,
-        }
+        
         public int Id { get; set; }
         public string Login { get; set; }
         public string Email { get; set; }
